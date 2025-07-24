@@ -1,2 +1,2 @@
 # funkcsiiIRekursiya
-funkcsii i ikh parametryi
+Функции, их параметры
