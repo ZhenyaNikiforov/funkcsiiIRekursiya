@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+void fib(int index);
+
+int main(){
+    
     int number = 0;
-    void fib(int index);
     
     cout<<"Введите число: ";
     cin>>number;

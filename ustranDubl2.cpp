@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main() 
-{
-    void multiple(int value, int power);
-    
+void multiple(int value, int power);
+
+int main(){
+
     int value = 5;
     int power = 2;
     
